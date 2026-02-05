@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prompt – Gemini</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      margin: 0;
+      padding: 24px;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #161b22;
+      border-radius: 8px;
+      padding: 24px;
+      box-shadow: 0 0 0 1px #30363d;
+    }
+    h1 {
+      color: #58a6ff;
+      font-size: 24px;
+    }
+    pre {
+      background: #0d1117;
+      padding: 16px;
+      border-radius: 6px;
+      overflow-x: auto;
+      border: 1px solid #30363d;
+    }
+    .tag {
+      display: inline-block;
+      background: #238636;
+      color: #fff;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      margin-bottom: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <span class="tag">Gemini Prompt</span>
+    <h1>Cena – Queda na Lama (Tom Sensível)</h1>
+
+    <pre>
+Cena em estilo cartoon suave e realista.
+Ambiente: parque ao ar livre após chuva leve, chão com poças de lama.
+
+A menina corre distraída, escorrega e cai sentada no meio da lama,
+sem se machucar. Ela reage dizendo:
+"Ai, poxa, por que eu caí no chão?"
+
+Pessoas ao redor riem de forma leve e distante, sem agressividade.
+A menina se levanta suja de lama, expressão de incômodo e tristeza,
+e diz:
+"Que chato as pessoas falarem isso comigo."
+
+Clima respeitoso, foco em emoção, empatia e aprendizado.
+Iluminação natural, cores suaves, final humano e sensível.
+    </pre>
+  </div>
+</body>
+</html>
